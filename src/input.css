@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img-show{
+    max-height: 300px;
+    margin: 10px auto;
+    border: 1px solid;
+}
